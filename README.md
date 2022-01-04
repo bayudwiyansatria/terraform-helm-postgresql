@@ -7,6 +7,7 @@
 [![Contributing](https://img.shields.io/badge/%20Community-Contribution-yellow.svg?style=flat-square)](CONTRIBUTING.md)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![Code Quality](https://github.com/bayudwiyansatria/terraform-helm-postgresql/actions/workflows/code-quality.yml/badge.svg)](https://github.com/bayudwiyansatria/terraform-helm-postgresql/actions/workflows/code-quality.yml)
 
 PostgreSQL High Availability provisioner using terraform. Provisioning A High Availability PostgreSQL using Helm Charts.
 Charts using [postgresql-ha](https://github.com/bitnami/charts/tree/master/bitnami/postgresql-ha) under Bitnami Charts.
